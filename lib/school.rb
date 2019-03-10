@@ -8,6 +8,6 @@ class School
     @roster = roster
   end
   
-  def
+  def add_student(student_name, grade)
   
   
