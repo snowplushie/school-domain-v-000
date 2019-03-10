@@ -7,3 +7,5 @@ class School
     @name = name
     @roster = roster
   end
+end
+end
