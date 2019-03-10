@@ -17,6 +17,6 @@ class School
     roster[grade]
   end
   
-  def sorted
+  def sort
     sorted = {}
     
